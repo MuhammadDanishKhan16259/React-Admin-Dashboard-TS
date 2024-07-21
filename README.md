@@ -1,5 +1,5 @@
 # Visit Site
-# https://react-admin-dashboard-ts.netlify.app/admin/dashboard
+# https://react-admin-dashboard-ts.netlify.app/
 
 # React + TypeScript + Vite
 
